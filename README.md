@@ -19,10 +19,10 @@ Après avoir passé 8 ans à garantir le **"zéro défaut"** dans l'univers exig
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Langages** | Java, Python, TypeScript, Bash/PowerShell, PHP, C++ |
+| **Langages** | Java, Python, TypeScript, Bash/PowerShell, C++ |
 | **Bases de données** | MySQL, InfluxDB, PostgreSQL |
 | **Infrastructure** | Linux (Debian/Ubuntu), Unix, Windows Server, Active Directory |
-| **DevOps / CI-CD** | Ansible, Docker, Git, GitLab CI, Jenkins, Vagrant |
+| **DevOps / CI-CD** | Ansible, Docker, Git |
 | **Virtualisation** | Proxmox, VMware |
 
 ---
