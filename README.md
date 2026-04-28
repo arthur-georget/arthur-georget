@@ -44,4 +44,4 @@ Après avoir passé 8 ans à garantir le **"zéro défaut"** dans l'univers exig
 ### ⚡ Fun Fact
 J'ai passé des années à calibrer des projecteurs cinéma et à gérer des fermes de rendu sous haute pression : la rigueur de production est gravée dans mon ADN de développeur.
 
-![Stats de Arthur](https://github-readme-stats.vercel.app/api?username=ArthurGeorget&show_icons=true&theme=radical)
+![Stats de Arthur](https://github-readme-stats.vercel.app/api?username=arthur-georget&show_icons=true&theme=radical)
