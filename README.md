@@ -11,7 +11,7 @@ Après avoir passé 8 ans à garantir le **"zéro défaut"** dans l'univers exig
 - 🎓 Actuellement en Bachelor IT à **La Plateforme Marseille**.
 - 🛠️ Mon expertise vient du terrain : gestion de parcs serveurs, automatisation et support utilisateur.
 - 🐧 Amoureux du **Logiciel Libre** et de la philosophie de Richard Stallman.
-- 🎯 Objectif : Alternance en Développement / QA / DevOps à partir de Septembre 2026.
+- 🎯 Objectif : Alternance en Développement logiciel à partir de Septembre 2026 (4 semaine en entreprise / 1 semaine en école).
 
 ---
 
